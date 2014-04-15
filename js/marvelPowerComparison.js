@@ -23,7 +23,8 @@ function loadData( fileName, dataType ) {
 		  //console.log(data);
 		  handleData( data, dataType );
 	 });
-	 // $.getJSON kept causing bugs so I had to use .ajax
+	 // $.getJSON was previously causing bugs so I briefly swapped to using .ajax
+	 // This section is no longer necessary since I fixed .getJSON prior to the project's completion
 	 /*jQuery.ajax({
 		  url: fileName, 
 		  type: "GET", 
