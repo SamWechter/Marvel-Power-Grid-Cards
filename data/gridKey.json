@@ -1,0 +1,74 @@
+{
+	 "Intelligence": { 
+		  "description": "The ability to think and process information.",
+		  "levels": {
+				"1": "Slow/Impaired",
+				"2": "Normal",
+				"3": "Learned",
+				"4": "Gifted",
+				"5": "Genius",
+				"6": "Super-Genius",
+				"7": "Omniscient"
+		  }
+	 }, 
+	 "Strength": {
+		  "description": "The ability to lift weight.",
+		  "levels": {
+				"1": "Weak - Cannot lift own body weight.",
+				"2": "Normal - Able to life own body weight.",
+				"3": "Peak Human - Able to lift twice own body weight.",
+				"4": "Superhuman - Able to lift 800 pounds to 25 tons.",
+				"5": "Superhuman - Able to lift 25-75 tons.",
+				"6": "Superhuman - Able to lift 75-100 tons.",
+				"7": "Incalculable - Able to lift in excess of 100 tons."
+		  }
+	 }, 
+	 "Speed": {
+		  "description": "The ability to move over land by running or flight.",
+		  "levels": {
+				"1": "Below Normal - Moves slower than an average human.",
+				"2": "Normal - Moves about as quickly as an average human.",
+				"3": "Superhuman - Able to move at speeds anywhere from above average human speed to 700 miles per hour.",
+				"4": "Speed of sound - Able to move at speeds up to the speed of sound (Mach 1).",
+				"5": "Supersonic - Able to move at speeds between Mach 1 and Orbital Velocity.",
+				"6": "Speed of Light - Able to move at speeds up to the speed of light (About 186,000 miles per hour).",
+				"7": "Warp Speed - Able to move at speeds greater than the speed of light."
+		  }
+	 }, 
+	 "Durability": {
+		  "description": "The ability to resist or recover from bodily injury.",
+		  "levels": {
+				"1": "Weak",
+				"2": "Normal",
+				"3": "Enhanced",
+				"4": "Regenerative",
+				"5": "Bulletproof",
+				"6": "Superhuman",
+				"7": "Virtually Indestructible"
+		  }
+	 }, 
+	 "Energy Projection": {
+		  "description": "The ability to discharge energy.",
+		  "levels": {
+				"1": "None",
+				"2": "Ability to discharge energy on contact",
+				"3": "Short range and duration with a single energy type",
+				"4": "Medium range and duration with a single energy type",
+				"5": "Long range and duration with a single energy type",
+				"6": "Able to discharge multiple forms of energy",
+				"7": "Virtually unlimited command of all forms of energy"
+		  }
+	 }, 
+	 "Fighting Ability": {
+		  "description": "Proficiency in hand-to-hand combat.",
+		  "levels": {
+				"1": "Poor",
+				"2": "Normal",
+				"3": "Some training",
+				"4": "Experienced fighter",
+				"5": "Master of a single form of combat",
+				"6": "Master of several forms of combat",
+				"7": "Master of all forms of combat"
+		  }
+	 }
+}

@@ -1,0 +1,71 @@
+body{
+	 height: 1000px;
+	 background-color: #555;
+}
+#wrapper{
+	 background-color: #999;
+	 min-height: 1100px;
+}
+h1, h2{
+	 text-align: center;
+}
+#intro-span{
+	 text-align: center;
+	 font-size: 110%;
+}
+.tooltip-img{
+	 width: 100px;
+	 height: 100px;
+	 top: 85px;
+	 position: absolute;
+}
+#grid-key-img{
+	 left: 20px;
+}
+#help-img{
+	 right: 20px;
+}
+.comparison-wrapper{
+	 margin-top: 1em;
+	 float: left;
+	 width: 30%;
+	 height: 850px;
+	 padding: 5px 5px 5px 5px;
+	 margin-left: 13%;
+	 max-height: 700px;
+}
+.selector-holder{
+	 width: 33%;
+	 margin-left: 30%;
+}
+.comparison-character-select{
+	 visibility: hidden;
+}
+.character-card{
+	 border: 1px solid black;
+	 -webkit-border-radius: 5px;
+	 -moz-border-radius: 5px;
+	 border-radius: 5px;
+	 padding: 10px 20px 20px 20px;
+	 background-color: #ccc;
+}
+.character-image{
+    display: block;
+    width: auto;
+	 max-width: 320px;
+    height: 400px;
+	 margin: 10px auto 10px auto;
+}
+.character-profile-link{
+}
+.character-stats{
+	 height: 230px;
+	 width: 400px;
+	 margin: 10px auto 0 auto;
+}
+.attribute-span{
+	 font-size: 160%;
+}
+.character-quote{
+	 font-size: 120%;
+}

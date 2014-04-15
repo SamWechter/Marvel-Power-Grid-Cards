@@ -1,0 +1,674 @@
+{
+	 "Avengers": {
+		  "Ant-Man (Hank Pym)": {
+				"Profile Link": "http://marvel.wikia.com/Henry_Pym_(Earth-616)", 
+				"Image Link": "http://static4.wikia.nocookie.net/__cb20130704011850/marveldatabase/images/a/af/Henry_Pym_%28Earth-616%29_from_Avengers_A.I._Vol_1_1_001.jpg", 
+				"Quote": "\"God, devil... I don't care what you call yourself. Because of you, my students are fighting a war alone. All you are to me -- is what I have to smash through to get to them!\" - Hank Pym", 
+				"Intelligence": "6",
+				"Strength": "7",
+				"Speed": "3",
+				"Durability": "3",
+				"Energy Projection": "6",
+				"Fighting Ability": "3"
+		  }, 
+		  "Black Widow (Natalia Romanova)": {
+				"Profile Link": "http://marvel.wikia.com/Natalia_Romanova_(Earth-616)", 
+				"Image Link": "http://static3.wikia.nocookie.net/__cb20091001125828/marveldatabase/images/5/56/Black_Widow_Deadly_Origin_Vol_1_2_Textless.jpg", 
+				"Quote": "\"My name is... Madame Natasha... but you... can call me The Black Widow!\" - Black Widow", 
+				"Intelligence": "3",
+				"Strength": "3",
+				"Speed": "2",
+				"Durability": "3",
+				"Energy Projection": "3",
+				"Fighting Ability": "6"
+		  }, 
+		  "Captain America (Steve Rogers)": {
+				"Profile Link": "http://marvel.wikia.com/Steven_Rogers_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20130325205227/marveldatabase/images/9/95/Steven_Rogers_%28Earth-616%29_from_Avengers_Vol_5_10_cover.png", 
+				"Quote": "\"I'm loyal to nothing, General -- except the Dream.\" - Captain America", 
+				"Intelligence": "3",
+				"Strength": "3",
+				"Speed": "2",
+				"Durability": "3",
+				"Energy Projection": "1",
+				"Fighting Ability": "6"
+		  }, 
+		  "Doctor Strange (Stephen Strange)": {
+				"Profile Link": "http://marvel.wikia.com/Stephen_Strange_(Earth-616)", 
+				"Image Link": "http://static1.wikia.nocookie.net/__cb20121128191061/marveldatabase/images/4/45/Stephen_Strange_%28Earth-616%29_from_New_Avengers_Vol_2_34.jpg", 
+				"Quote": "\"By the sands that time has shifted, By the Winds of weird Watoomb, Let the masking veil be lifted, Though it means a demon's doom!\" - Doctor Strange", 
+				"Intelligence": "4",
+				"Strength": "2",
+				"Speed": "2 / 7 (Teleporter)",
+				"Durability": "2",
+				"Energy Projection": "6",
+				"Fighting Ability": "6"
+		  }, 
+		  "Hawkeye (Clinton Barton)": {
+				"Profile Link": "http://marvel.wikia.com/Clinton_Barton_(Earth-616)", 
+				"Image Link": "http://static1.wikia.nocookie.net/__cb20120814211438/marveldatabase/images/f/f6/Hawkeye_Vol_4_1_Granov_Variant_Textless.jpg", 
+				"Quote": "\"I'm strictly a bow and arrow type.\" - Hawkeye", 
+				"Intelligence": "3",
+				"Strength": "2",
+				"Speed": "2",
+				"Durability": "2",
+				"Energy Projection": "1",
+				"Fighting Ability": "6"
+		  }, 
+		  "The Hulk (Bruce Banner)": {
+				"Profile Link": "http://marvel.wikia.com/Robert_Bruce_Banner_(Earth-616)", 
+				"Image Link": "http://static3.wikia.nocookie.net/__cb20131026034935/marveldatabase/images/2/2a/Robert_Bruce_Banner_%28Earth-616%29_from_Infinity_Vol_1_6.jpg", 
+				"Quote": "\"Tony Stark and Reed Richards use their genius to save the world every other week. That's how they'll be remembered in history. Meanwhile, I - I who, forgive me, have just as much to contribute - will be lucky if my tombstone doesn't simply say \"Hulk Smash.\"\" - Bruce Banner", 
+				"Intelligence": "6 (Human) / 2 (Hulk)",
+				"Strength": "7",
+				"Speed": "5",
+				"Durability": "7",
+				"Energy Projection": "1 (Human) / 5 (Hulk)",
+				"Fighting Ability": "4"
+		  }, 
+		  "Iron Man (Tony Stark)": {
+				"Profile Link": "http://marvel.wikia.com/Anthony_Stark_(Earth-616)", 
+				"Image Link": "http://static3.wikia.nocookie.net/__cb20131210223919/marveldatabase/images/7/73/Anthony_Stark_%28Earth-616%29_by_Granov_002_%28cut%29.jpg", 
+				"Quote": "\"I do have a responsibility to keep my inventions from evil hands – but I have a greater responsibility to oppose that evil any way I can. So, Tony Stark may have done his bit out there, but only Iron Man can do what has to be done...\" - Iron Man", 
+				"Intelligence": "6",
+				"Strength": "6",
+				"Speed": "5",
+				"Durability": "6",
+				"Energy Projection": "6",
+				"Fighting Ability": "4"
+		  }, 
+		  "Spider-Man (Peter Parker)": {
+				"Profile Link": "http://marvel.wikia.com/Peter_Parker_(Earth-616)", 
+				"Image Link": "http://static1.wikia.nocookie.net/__cb20130913090848/marveldatabase/images/c/ce/Amazing_Spider-Man_Vol_1_700.1_Textless.jpg", 
+				"Quote": "\"With great power, there must also come great responsibility.\" - Uncle Ben", 
+				"Intelligence": "4",
+				"Strength": "4",
+				"Speed": "3",
+				"Durability": "3",
+				"Energy Projection": "1",
+				"Fighting Ability": "4"
+		  }, 
+		  "Thor Odinson": {
+				"Profile Link": "http://marvel.wikia.com/Thor_Odinson_(Earth-616)", 
+				"Image Link": "http://static1.wikia.nocookie.net/__cb20131010201619/marveldatabase/images/5/56/Thor_Odinson_%28Earth-616%29_from_Avengers_21_Infinity.jpg", 
+				"Quote": "\"All the power of the storm, from all the world, flows through my veins, and can be summoned by mine hammer at any time, wherever it is. A lightning storm in Japan? Mine. A hurricane off the coast of Barbados? Mine again. A brace of tornadoes in Kansas? Aye...mine. All that might, all that destructive force, mine to command. Channeled and guided through the mystic might of this hammer, guided right at thee!\" - Thor", 
+				"Intelligence": "3",
+				"Strength": "7",
+				"Speed": "7",
+				"Durability": "6",
+				"Energy Projection": "5",
+				"Fighting Ability": "4"
+		  }, 
+		  "Vision": {
+				"Profile Link": "http://marvel.wikia.com/Vision_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20130704011519/marveldatabase/images/5/54/Vision_%28Earth-616%29_from_Avengers_A.I._Vol_1_1_001.jpg", 
+				"Quote": "\"Once I imagined -- perhaps hoped that in some way I was Simon Williams! I AM NOT! What difference if I have the same brain waves! I AM UNIQUE! I am THE VISION -- ! And thus... I am content!\" - Vision", 
+				"Intelligence": "4",
+				"Strength": "5",
+				"Speed": "3",
+				"Durability": "6",
+				"Energy Projection": "6",
+				"Fighting Ability": "3"
+		  },  
+		  "War Machine (James Rhodes)": {
+				"Profile Link": "http://marvel.wikia.com/James_Rhodes_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20130710203332/marveldatabase/images/b/bf/James_Rhodes_%28Earth-616%29_from_Secret_Avengers_Vol_2_6_001.jpg", 
+				"Quote": "\"He doesn't want to talk with James Rhodes -- FINE -- He'll just have to take a meeting with War Machine!\" - War Machine", 
+				"Intelligence": "3",
+				"Strength": "6",
+				"Speed": "5",
+				"Durability": "6",
+				"Energy Projection": "6",
+				"Fighting Ability": "4"
+		  }, 
+		  "Wasp (Janet van Dyne)": {
+				"Profile Link": "http://marvel.wikia.com/Janet_van_Dyne_(Earth-616)", 
+				"Image Link": "http://static3.wikia.nocookie.net/__cb20130727030936/marveldatabase/images/0/0b/Janet_van_Dyne_%28Earth-616%29_from_Uncanny_Avengers_Vol_1_10_001.png", 
+				"Quote": "\"HI! I'm the Wasp! And you've just been STUNG!\" - Wasp", 
+				"Intelligence": "3",
+				"Strength": "5",
+				"Speed": "3",
+				"Durability": "2",
+				"Energy Projection": "4",
+				"Fighting Ability": "4"
+		  }
+	 }, 
+	 "Fantastic Four": {
+		  "Mr. Fantastic (Reed Richards)": {
+				"Profile Link": "http://marvel.wikia.com/Reed_Richards_(Earth-616)", 
+				"Image Link": "http://static3.wikia.nocookie.net/__cb20121120235617/marveldatabase/images/5/5f/Reed_Richards_%28Earth-616%29_from_Fantastic_Four_Vol_4_1_cover.JPG", 
+				"Quote": "\"The Fantastic Four has never given up hope before ... We're not stopping now. If there's a way out of this, so help me - - I'll find it.\" - Mr. Fantastic", 
+				"Intelligence": "6",
+				"Strength": "2",
+				"Speed": "2",
+				"Durability": "5",
+				"Energy Projection": "1",
+				"Fighting Ability": "3"
+		  }, 
+		  "Invisible Woman (Susan Storm)": {
+				"Profile Link": "http://marvel.wikia.com/Susan_Storm_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20121120235620/marveldatabase/images/d/d3/Susan_Storm_%28Earth-616%29_from_Fantastic_Four_Vol_4_1_cover.JPG", 
+				"Quote": "\"I'm not interested in justice Reed. What I want is VENGEANCE!\" - Invisible Woman", 
+				"Intelligence": "3",
+				"Strength": "2",
+				"Speed": "3",
+				"Durability": "6",
+				"Energy Projection": "5",
+				"Fighting Ability": "3"
+		  }, 
+		  "Human Torch (Johnny Storm)": {
+				"Profile Link": "http://marvel.wikia.com/Jonathan_Storm_(Earth-616)", 
+				"Image Link": "http://static1.wikia.nocookie.net/__cb20070209061233/marveldatabase/images/0/07/Fantastic_Four_Vol_1_542_Textless.jpg", 
+				"Quote": "\"FLAME ON!\" - Human Torch", 
+				"Intelligence": "2",
+				"Strength": "2",
+				"Speed": "5",
+				"Durability": "2 (Human) / 6 (Torch)",
+				"Energy Projection": "5",
+				"Fighting Ability": "3"
+		  }, 
+		  "The Thing (Ben Grimm)": {
+				"Profile Link": "http://marvel.wikia.com/Benjamin_Grimm_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20121120235615/marveldatabase/images/1/1b/Benjamin_Grimm_%28Earth-616%29_from_Fantastic_Four_Vol_4_1_cover.JPG", 
+				"Quote": "\"It's Clobberin' Time!\" - The Thing", 
+				"Intelligence": "3",
+				"Strength": "6",
+				"Speed": "2",
+				"Durability": "6",
+				"Energy Projection": "1",
+				"Fighting Ability": "5"
+		  }
+	 },
+	 "X-Men": { 
+		  "Angel (Warren Worthington III)": {
+				"Profile Link": "http://marvel.wikia.com/Warren_Worthington_III_(Earth-616)", 
+				"Image Link": "http://static3.wikia.nocookie.net/__cb20121220020735/marveldatabase/images/f/f0/Warren_Worthington_III_%28Earth-616%29_from_All-New_X-Men_Vol_1_6_page_--.jpg", 
+				"Quote": "\"Our world has been distorted. Much like the one you just returned from. Its natural course has been interfered with. I must rectify that. The reality-bending witch Wanda Maximoff said 'No more mutants' and our people were devastated, reduced to less than 200 planetwide. In that moment the natural evolution intended for this world was shattered. I'm going to set this all right... I'm going to reset evolution.\" - Angel", 
+				"Intelligence": "3",
+				"Strength": "2",
+				"Speed": "3",
+				"Durability": "2",
+				"Energy Projection": "1",
+				"Fighting Ability": "4"
+		  }, 
+		  "Beast (Henry McCoy)": {
+				"Profile Link": "http://marvel.wikia.com/Henry_McCoy_(Earth-616)", 
+				"Image Link": "http://static3.wikia.nocookie.net/__cb20130421165441/marveldatabase/images/6/68/Henry_McCoy_%28Earth-616%29_from_A_%2B_X_Vol_1_7_001.jpg", 
+				"Quote": "\"Oh, my stars and garters!\" - Beast", 
+				"Intelligence": "4",
+				"Strength": "5",
+				"Speed": "3",
+				"Durability": "4",
+				"Energy Projection": "1",
+				"Fighting Ability": "4"
+		  }, 
+		  "Cable (Nathan Summers)": {
+				"Profile Link": "http://marvel.wikia.com/Nathan_Summers_(Earth-616)", 
+				"Image Link": "http://static1.wikia.nocookie.net/__cb20130622210358/marveldatabase/images/1/1e/Nathan_Summers_%28Earth-616%29_C%26XF_Vol_1_3.jpg", 
+				"Quote": "\"Just think of me as one of those crazy relatives you don't want visiting too often.\" - Cable", 
+				"Intelligence": "3",
+				"Strength": "4",
+				"Speed": "2 / 7 (Teleporter)",
+				"Durability": "4",
+				"Energy Projection": "4",
+				"Fighting Ability": "6"
+		  },  
+		  "Colossus (Piotr Rasputin)": {
+				"Profile Link": "http://marvel.wikia.com/Piotr_Rasputin_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20121115150729/marveldatabase/images/a/a6/Cable_and_X-Force_Vol_1_4_Textless.jpg", 
+				"Quote": "\"I do not give my word... unless I mean to keep it.\" - Colossus", 
+				"Intelligence": "2",
+				"Strength": "6",
+				"Speed": "2",
+				"Durability": "6",
+				"Energy Projection": "1",
+				"Fighting Ability": "4"
+		  }, 
+		  "Cyclops (Scott Summers)": {
+				"Profile Link": "http://marvel.wikia.com/Scott_Summers_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20130404044503/marveldatabase/images/d/d8/Cable_and_X-Force_Vol_1_7_Solicit.jpg", 
+				"Quote": "\"I haven't looked anyone in the eyes since I was 15.\" - Cyclops", 
+				"Intelligence": "3",
+				"Strength": "2",
+				"Speed": "2",
+				"Durability": "2",
+				"Energy Projection": "5",
+				"Fighting Ability": "4"
+		  },
+		  "Domino (Neena Thurman)": {
+				"Profile Link": "http://marvel.wikia.com/Neena_Thurman_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20121115150706/marveldatabase/images/3/32/Cable_and_X-Force_Vol_1_4_Simone_Bianchi_Variant_Textless.jpg", 
+				"Quote": "\"Give me one good reason why I shouldn't blow your head off after what you've done to me?\" - Domino", 
+				"Intelligence": "2",
+				"Strength": "2",
+				"Speed": "2",
+				"Durability": "2",
+				"Energy Projection": "3",
+				"Fighting Ability": "6"
+		  },
+		  "Emma Frost": {
+				"Profile Link": "http://marvel.wikia.com/Emma_Frost_(Earth-616)", 
+				"Image Link": "http://static1.wikia.nocookie.net/__cb20130613185660/marveldatabase/images/a/a0/Uncanny_X-Men_Vol_3_12_Manara_Variant_Textless.jpg", 
+				"Quote": "\"That's how I survived. Time and time again. That's my secret. I survived because I willed it to be. ... How did I survive apocalyptic fire? I simply refused to feel the flames.\" - Emma Frost", 
+				"Intelligence": "4",
+				"Strength": "4",
+				"Speed": "2",
+				"Durability": "5",
+				"Energy Projection": "5",
+				"Fighting Ability": "3"
+		  },   
+		  "Gambit (Remy LeBeau)": {
+				"Profile Link": "http://marvel.wikia.com/Remy_LeBeau_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20120122200653/marveldatabase/images/9/94/X-Men_Origins_Gambit_Vol_1_1_Textless.jpg", 
+				"Quote": "\"Admit it, mon ami, we actu'ly make a pretty good team... when we ain't tryin' t'kill each other.\" - Gambit", 
+				"Intelligence": "2",
+				"Strength": "2",
+				"Speed": "2",
+				"Durability": "2",
+				"Energy Projection": "2",
+				"Fighting Ability": "4"
+		  },   
+		  "Jean Grey": {
+				"Profile Link": "http://marvel.wikia.com/Jean_Grey_(Earth-616)", 
+				"Image Link": "http://static1.wikia.nocookie.net/__cb20130528171929/marveldatabase/images/1/1e/Jean_Grey_%28Earth-616%29_from_X-Men_Phoenix_Endsong_Vol_1_5_page_20.png", 
+				"Quote": "\"Fools! You dare to trifle with the Phoenix?\" - Phoenix", 
+				"Intelligence": "3",
+				"Strength": "2",
+				"Speed": "3",
+				"Durability": "2",
+				"Energy Projection": "6",
+				"Fighting Ability": "4"
+		  },  
+		  "Nightcrawler (Kurt Wagner)": {
+				"Profile Link": "http://marvel.wikia.com/Kurt_Wagner_(Earth-616)", 
+				"Image Link": "http://static1.wikia.nocookie.net/__cb20131008222059/marveldatabase/images/c/c6/Kurt_Wagner_%28Earth-616%29_AMX20130010.jpg",
+				"Quote": "\"Every so often, liebchen, since I look like a demon... I have this irresistible urge to play the part.\" - Nightcrawler",  
+				"Intelligence": "3",
+				"Strength": "2",
+				"Speed": "3 / 7 (Teleporter)",
+				"Durability": "2",
+				"Energy Projection": "1",
+				"Fighting Ability": "3"
+		  },  
+		  "Professor X (Charles Xavier)": {
+				"Profile Link": "http://marvel.wikia.com/Charles_Xavier_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20110215192129/marveldatabase/images/0/0b/X-Men_Prelude_to_Schism_Vol_1_1_Textless.jpg", 
+				"Quote": "\"Any dream worth having is a dream worth fighting for.\" - Professor X", 
+				"Intelligence": "5",
+				"Strength": "2",
+				"Speed": "2",
+				"Durability": "2",
+				"Energy Projection": "5",
+				"Fighting Ability": "3"
+		  }, 
+		  "Rogue (Anna Marie)": {
+				"Profile Link": "http://marvel.wikia.com/Rogue_(Anna_Marie)_(Earth-616)", 
+				"Image Link": "http://static3.wikia.nocookie.net/__cb20130605231806/marveldatabase/images/0/02/Rogue_%28Anna_Marie%29_%28Earth-616%29_002.png", 
+				"Quote": "\"Let's go to work then. We have a world to save.\" - Rogue", 
+				"Intelligence": "2",
+				"Strength": "6",
+				"Speed": "3",
+				"Durability": "6",
+				"Energy Projection": "1",
+				"Fighting Ability": "3"
+		  },  
+		  "Psylocke (Elizabeth Braddock)": {
+				"Profile Link": "http://marvel.wikia.com/Elizabeth_Braddock_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20130411221807/marveldatabase/images/d/d2/X-Men_Vol_4_3_Textless.jpg", 
+				"Quote": "\"Millions of souls were being consumed every second. There was no other way. And you know that. But you made me do it. So you get to stay the good guy.\" - Psylocke", 
+				"Intelligence": "2",
+				"Strength": "3",
+				"Speed": "2",
+				"Durability": "3",
+				"Energy Projection": "5",
+				"Fighting Ability": "6"
+		  },  
+		  "Storm (Ororo Munroe)": {
+				"Profile Link": "http://marvel.wikia.com/Ororo_Munroe_(Earth-616)", 
+				"Image Link": "http://static4.wikia.nocookie.net/__cb20130123034515/marveldatabase/images/7/76/Ororo_Munroe_%28Earth-616%29_from_Uncanny_X-Force_Vol_2_1.png", 
+				"Quote": "\"The elements marshal their infinite might at my beckoning! Power seethes in the rolling clouds! Now, at my command -- STRIKE!\" - Storm", 
+				"Intelligence": "2",
+				"Strength": "2",
+				"Speed": "3",
+				"Durability": "2",
+				"Energy Projection": "5",
+				"Fighting Ability": "4"
+		  }, 
+		  "Wolverine (James 'Logan' Howlett)": {
+				"Profile Link": "http://marvel.wikia.com/Wolverine_(James_%22Logan%22_Howlett)", 
+				"Image Link": "http://static3.wikia.nocookie.net/__cb20130602045953/marveldatabase/images/f/f8/James_Howlett_%28Earth-616%29_0040.jpg", 
+				"Quote": "\"I'm Wolverine. I'm the best there is at what I do, but what I do best isn't very nice.\" - Wolverine", 
+				"Intelligence": "2",
+				"Strength": "4",
+				"Speed": "2",
+				"Durability": "4",
+				"Energy Projection": "1",
+				"Fighting Ability": "7"
+		  }
+	 },
+	 "Guardians of the Galaxy": {
+		  "Adam Warlock": {
+				"Profile Link": "http://marvel.wikia.com/Adam_Warlock_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20100402203743/marveldatabase/images/c/c6/New_Adam_Warlock_%28Earth-616%29.jpg", 
+				"Quote": "\"I am HIM... not born of man and woman! I was created to be invincible! And those who made me... made me well!\" - Adam Warlock", 
+				"Intelligence": "3",
+				"Strength": "5",
+				"Speed": "3 / 7 (Teleporter)",
+				"Durability": "6",
+				"Energy Projection": "6",
+				"Fighting Ability": "2"
+		  }, 
+		  "Drax the Destroyer (Arthur Douglas)": {
+				"Profile Link": "http://marvel.wikia.com/Arthur_Douglas_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20131213062843/marveldatabase/images/e/ee/Arthur_Douglas_%28Earth-616%29_00012.jpg", 
+				"Quote": "\"Hello. I am Drax the Destroyer. My daughter desires a box of mint cookies, please.\" - Drax the Destroyer", 
+				"Intelligence": "2",
+				"Strength": "5",
+				"Speed": "2",
+				"Durability": "7",
+				"Energy Projection": "1",
+				"Fighting Ability": "4"
+		  }, 
+		  "Gamora": {
+				"Profile Link": "http://marvel.wikia.com/Gamora_(Earth-616)", 
+				"Image Link": "http://static4.wikia.nocookie.net/__cb20130612214137/marveldatabase/images/1/11/Guardians_of_the_Galaxy_Vol_3_4_Campbell_Variant_Textless.jpg", 
+				"Quote": "\"I go by many Names, my Tick-Ridden Troll, but I'm sure the one that Black Knight knew me by is Gamora, the deadliest Woman in the whole Galaxy!\" - Gamora", 
+				"Intelligence": "3",
+				"Strength": "3",
+				"Speed": "4",
+				"Durability": "3",
+				"Energy Projection": "1",
+				"Fighting Ability": "6"
+		  }, 
+		  "Groot": {
+				"Profile Link": "http://marvel.wikia.com/Groot_(Earth-616)", 
+				"Image Link": "http://static3.wikia.nocookie.net/__cb20131215193754/marveldatabase/images/f/f2/Groot_%28Earth-616%29_from_Guardians_of_the_Galaxy_Vol_3_4_0001.jpg",
+				"Quote": "\"I am Groot!\" - Groot", 
+				"Intelligence": "3",
+				"Strength": "7",
+				"Speed": "3",
+				"Durability": "4",
+				"Energy Projection": "3",
+				"Fighting Ability": "4"
+		  }, 
+		  "Rocket Raccoon": {
+				"Profile Link": "http://marvel.wikia.com/Rocket_Raccoon_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20130214200345/marveldatabase/images/1/1a/Guardians_of_the_Galaxy_Vol_3_3_Textless.jpg",  
+				"Quote": "\"I may just be a small, furry animal with a human heart. And my friend may be made of wood...and we may not be Annihilator-class supertypes... But we've got Star-Lord's legacy to live up to, Lylla. The legacy of the Guardians of the Galaxy!\" - Rocket Raccoon", 
+				"Intelligence": "3",
+				"Strength": "2",
+				"Speed": "2",
+				"Durability": "2",
+				"Energy Projection": "1",
+				"Fighting Ability": "4"
+		  }, 
+		  "Starlord (Peter Quill)": {
+				"Profile Link": "http://marvel.wikia.com/Peter_Quill_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20110121015214/marveldatabase/images/3/31/Starlord104062-139071-.jpg", 
+				"Quote": "\"The galaxy doesn't need guardians! It doesn't need brave souls! If it's going to survive another one of these, it's going to need absolute bad-asses! It's going to need the biggest guns of all! Cosmic heavy hitters as scary as the menaces they have to face! It's going to need flarking annihilators!\" - Starlord", 
+				"Intelligence": "4",
+				"Strength": "3",
+				"Speed": "2",
+				"Durability": "3",
+				"Energy Projection": "1",
+				"Fighting Ability": "4"
+		  }
+	 }, 
+	 "Villains": {
+		  "Annihilus": {
+				"Profile Link": "http://marvel.wikia.com/Annihilus_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20120105190027/marveldatabase/images/4/4d/Annihilus_from_Fantastic_Four_Vol_1_600.JPG", 
+				"Quote": "\" I am Annihilus ... Lord of the Negative Zone! Annihilus the Living Death that walks!\" - Annihilus", 
+				"Intelligence": "3",
+				"Strength": "4",
+				"Speed": "3",
+				"Durability": "6",
+				"Energy Projection": "4",
+				"Fighting Ability": "2"
+		  }, 
+		  "Baron Zemo (Helmut Zemo)": {
+				"Profile Link": "http://marvel.wikia.com/Helmut_Zemo_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20120529194817/marveldatabase/images/2/20/Helmut_Zemo_%28Earth-616%29_from_Captain_America_Vol_6_1.JPG", 
+				"Quote": "\"Guide my hand, my father -- as I avenge your death!\" - Baron Zemo", 
+				"Intelligence": "4",
+				"Strength": "2",
+				"Speed": "2",
+				"Durability": "2",
+				"Energy Projection": "1",
+				"Fighting Ability": "5"
+		  }, 
+		  "Destroyer": {
+				"Profile Link": "http://marvel.wikia.com/Destroyer_(Enchanted_Armor)", 
+				"Image Link": "http://static3.wikia.nocookie.net/__cb20110908132049/marveldatabase/images/0/0b/Loki_and_the_destroyer.png", 
+				"Quote": "\"...\" - Destroyer", 
+				"Intelligence": "2",
+				"Strength": "7",
+				"Speed": "5",
+				"Durability": "7",
+				"Energy Projection": "6",
+				"Fighting Ability": "4"
+		  }, 
+		  "Doctor Doom (Victor von Doom)": {
+				"Profile Link": "http://marvel.wikia.com/Victor_von_Doom_(Earth-616)", 
+				"Image Link": "http://static1.wikia.nocookie.net/__cb20130528050127/marveldatabase/images/f/f9/Victor_von_Doom_%28Earth-616%29_from_Thor_Vol_1_600.jpg", 
+				"Quote": "\"I am Doom... Destroyer of worlds... What Gods dare stand against me?\" - Doctor Doom", 
+				"Intelligence": "6",
+				"Strength": "4",
+				"Speed": "5",
+				"Durability": "6",
+				"Energy Projection": "6",
+				"Fighting Ability": "4"
+		  }, 
+		  "Doctor Octopus (Otto Octavius)": {
+				"Profile Link": "http://marvel.wikia.com/Otto_Octavius_(Earth-616)", 
+				"Image Link": "http://static1.wikia.nocookie.net/__cb20091026120849/marveldatabase/images/2/2c/Marvel_Knights_Spider-Man_Vol_1_5_Textless.jpg", 
+				"Quote": "\"Honor is for fools.\" - Doctor Octopus", 
+				"Intelligence": "5",
+				"Strength": "5",
+				"Speed": "3",
+				"Durability": "2",
+				"Energy Projection": "1",
+				"Fighting Ability": "4"
+		  },
+		  "Dormammu": {
+				"Profile Link": "http://marvel.wikia.com/Dormammu_(Earth-616)", 
+				"Image Link": "http://static3.wikia.nocookie.net/__cb20101009190910/marveldatabase/images/d/d0/Dorm_1.jpg", 
+				"Quote": "\"Come my murdrous minions -- follow in the paths of the Dread One!\" - Dormammu", 
+				"Intelligence": "6",
+				"Strength": "7",
+				"Speed": "7",
+				"Durability": "7",
+				"Energy Projection": "7",
+				"Fighting Ability": "4"
+		  }, 
+		  "Juggernaut (Cain Marko)": {
+				"Profile Link": "http://marvel.wikia.com/Cain_Marko_(Earth-616)", 
+				"Image Link": "http://static3.wikia.nocookie.net/__cb20121106090918/marveldatabase/images/9/96/Cain_Marko_%28Earth-616%29_020.jpg", 
+				"Quote": "\"I'M THE JUGGERNAUT!\" - Juggernaut", 
+				"Intelligence": "2",
+				"Strength": "7",
+				"Speed": "1",
+				"Durability": "7",
+				"Energy Projection": "1",
+				"Fighting Ability": "4"
+		  }, 
+		  "Loki Laufeyson": {
+				"Profile Link": "http://marvel.wikia.com/Loki_Laufeyson_(Earth-616)", 
+				"Image Link": "http://static1.wikia.nocookie.net/__cb20061107153457/marveldatabase/images/4/40/Loki_Laufeyson_%28Earth-616%29.jpg", 
+				"Quote": "\"I am Loki, whose whim brought Asgard crashing down. I am Loki, whose tongue was an anvil where the sharpest lies were forged. I am Loki, and I have things to say that you must know. I am Loki, who you must not trust.\" - Loki", 
+				"Intelligence": "5",
+				"Strength": "4",
+				"Speed": "3",
+				"Durability": "6",
+				"Energy Projection": "6",
+				"Fighting Ability": "3"
+		  }, 
+		  "Magneto (Max Eisenhardt)": {
+				"Profile Link": "http://marvel.wikia.com/Max_Eisenhardt_(Earth-616)", 
+				"Image Link": "http://static1.wikia.nocookie.net/__cb20100218033042/marveldatabase/images/a/a7/Uncanny_X-Men_Vol_1_521_Textless.jpg", 
+				"Quote": "\"I know... something of grief. Search throughout my homeland, you will find none who bear my name. Mine was a large family and it was slaughtered – without mercy, without remorse. So speak not to me of grief, boy. You know not the meaning of the word!\" - Magneto", 
+				"Intelligence": "5",
+				"Strength": "2",
+				"Speed": "5",
+				"Durability": "2",
+				"Energy Projection": "6",
+				"Fighting Ability": "4"
+		  }, 
+		  "Malekith the Accursed": {
+				"Profile Link": "http://marvel.wikia.com/Malekith_(Earth-616)", 
+				"Image Link": "http://static1.wikia.nocookie.net/__cb20131122044336/marveldatabase/images/9/94/Malekith_%28Earth-616%29_Thor_God_of_Thunder_Vol_1_16.jpg", 
+				"Quote": "\"Woe to those...who stand between Malekith and his goal!\" - Malekith", 
+				"Intelligence": "4",
+				"Strength": "6",
+				"Speed": "7",
+				"Durability": "6",
+				"Energy Projection": "6",
+				"Fighting Ability": "4"
+		  },
+		  "Modok (George Tarleton)": {
+				"Profile Link": "http://marvel.wikia.com/George_Tarleton_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20120414230954/marveldatabase/images/f/fa/George_Tarleton_%28Earth-616%29_in_human_form.JPG", 
+				"Quote": "\"Once, I was a mere guinea pig for the scientists of A.I.M.! But they did their job too well... and now... I am their master!\" - Modok", 
+				"Intelligence": "6",
+				"Strength": "1",
+				"Speed": "7",
+				"Durability": "1",
+				"Energy Projection": "6",
+				"Fighting Ability": "1"
+		  }, 
+		  "Mystique (Raven Darkholme)": {
+				"Profile Link": "http://marvel.wikia.com/Raven_Darkholme_(Earth-616)", 
+				"Image Link": "http://static1.wikia.nocookie.net/__cb20130611014840/marveldatabase/images/1/15/Raven_Darkholme_%28Earth-616%29_from_All-New_X-Men_Vol_1_7_001.png", 
+				"Quote": "\"Who am I? That, my dear, is an excellent question. Though not one easily answered.\" - Mystique", 
+				"Intelligence": "4",
+				"Strength": "2",
+				"Speed": "2",
+				"Durability": "4",
+				"Energy Projection": "1",
+				"Fighting Ability": "5"
+		  }, 
+		  "Quicksilver (Pietro Maximoff)": {
+				"Profile Link": "http://marvel.wikia.com/Pietro_Maximoff_(Earth-616)", 
+				"Image Link": "http://static4.wikia.nocookie.net/__cb20120718032533/marveldatabase/images/2/2c/Pietro_Maximoff_%28Earth-616%29.PNG", 
+				"Quote": "\"Super-Speed. Google it.\" - Quicksilver", 
+				"Intelligence": "3",
+				"Strength": "4",
+				"Speed": "5",
+				"Durability": "3",
+				"Energy Projection": "1",
+				"Fighting Ability": "4"
+		  },
+		  "Red Hulk (Thaddeus Ross)": {
+				"Profile Link": "http://marvel.wikia.com/Red_Hulk_(Thaddeus_Ross)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20120814065307/marveldatabase/images/d/d1/Hulk_Vol_2_6_Turner_Variant.jpg", 
+				"Quote": "\"I was General Thunderbolt Ross. I became the very thing I hated most in life. I am the Red Hulk. And for all I've done... I deserve to die...\" - General Thaddeus Ross", 
+				"Intelligence": "3",
+				"Strength": "7",
+				"Speed": "3",
+				"Durability": "6",
+				"Energy Projection": "2",
+				"Fighting Ability": "4"
+		  },
+		  "Red Skull (Johann Shmidt)": {
+				"Profile Link": "http://marvel.wikia.com/Johann_Shmidt_(Earth-616)", 
+				"Image Link": "http://static1.wikia.nocookie.net/__cb20091108114008/marveldatabase/images/5/5f/MARPROJ006_cov_PARELvariant.jpg", 
+				"Quote": "\"And now a toast ... to unending conquest!\" - Red Skull", 
+				"Intelligence": "5",
+				"Strength": "2",
+				"Speed": "2",
+				"Durability": "2",
+				"Energy Projection": "1",
+				"Fighting Ability": "6"
+		  },
+		  "Scarlet Witch (Wanda Maximoff)": {
+				"Profile Link": "http://marvel.wikia.com/Wanda_Maximoff_(Earth-616)", 
+				"Image Link": "http://static3.wikia.nocookie.net/__cb20130223175842/marveldatabase/images/7/7c/Wanda_Maximoff_%28Earth-616%29_from_Uncanny_Avengers_Vol_1_1_Coipel_Variant_cover.png", 
+				"Quote": "\"There is no defense against the Scarlet Witch's HEX!\" - Scarlet Witch", 
+				"Intelligence": "3",
+				"Strength": "2",
+				"Speed": "2",
+				"Durability": "2",
+				"Energy Projection": "6",
+				"Fighting Ability": "3"
+		  },
+		  "Thanos": {
+				"Profile Link": "http://marvel.wikia.com/Thanos_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20130628193009/marveldatabase/images/c/cb/Infinity_Vol_1_4_Generals_Variant_Textless.jpg", 
+				"Quote": "\"Fools taking up arms against omnipotence. They rush head-on into Armageddon. So I shall provide them with a most glorious doomsday! The heavens will run red with blood. But in the end, as always, THANOS will stand triumphant.\" - Thanos", 
+				"Intelligence": "6",
+				"Strength": "7",
+				"Speed": "7",
+				"Durability": "6",
+				"Energy Projection": "6",
+				"Fighting Ability": "4"
+		  }
+	 },
+	 "Neutral/Other": {
+		  "Bob, Agent of Hydra": {
+				"Profile Link": "http://marvel.wikia.com/Bob_(Hydra_Agent)_(Earth-616)", 
+				"Image Link": "http://static4.wikia.nocookie.net/__cb20090207132437/marveldatabase/images/9/9f/Bob%2C_Agent_of_HYDRA_02.jpg",
+				"Quote": "\"Bob throws like a girl.\" - Deadpool", 
+				"Intelligence": "2",
+				"Strength": "2",
+				"Speed": "2",
+				"Durability": "2",
+				"Energy Projection": "1",
+				"Fighting Ability": "2"
+		  }, 
+		  "Daredevil (Matthew Murdock)": {
+				"Profile Link": "http://marvel.wikia.com/Matthew_Murdock_(Earth-616)", 
+				"Image Link": "http://static3.wikia.nocookie.net/__cb20090926085249/marveldatabase/images/b/b4/Daredevil_500_DellOtto.jpg", 
+				"Quote": "\"The name's Daredevil... remember it! You'll be hearing it again... I promise!!\" - Daredevil", 
+				"Intelligence": "3",
+				"Strength": "3",
+				"Speed": "2",
+				"Durability": "2",
+				"Energy Projection": "4",
+				"Fighting Ability": "5"
+		  }, 
+		  "Deadpool": {
+				"Profile Link": "http://marvel.wikia.com/Deadpool_(Wade_Wilson)", 
+				"Image Link": "http://static1.wikia.nocookie.net/__cb20130813233202/marveldatabase/images/a/a4/Wade_Wilson_%28Earth-616%29_from_X-Men_Battle_of_the_Atom_Vol_1_1_cover.jpg", 
+				"Quote": "\"I always forget (or just black out to spare myself the agony) what Wilson's most lethal weapon is... his mouth! He'll talk nonsense until you surrender or commit suicide.\" - Domino", 
+				"Intelligence": "2",
+				"Strength": "4",
+				"Speed": "2 / 7 (Teleportation)",
+				"Durability": "4",
+				"Energy Projection": "1",
+				"Fighting Ability": "6"
+		  }, 
+		  "Nova (Richard Rider)": {
+				"Profile Link": "http://marvel.wikia.com/Richard_Rider_(Earth-616)", 
+				"Image Link": "http://static2.wikia.nocookie.net/__cb20130313230953/marveldatabase/images/e/e5/Richard_Rider_%28Earth-616%29.jpg", 
+				"Quote": "\"I am Richard Rider, the Nova Prime, and you have killed far, far too many of my Centurions.\" - Nova", 
+				"Intelligence": "2",
+				"Strength": "7",
+				"Speed": "7",
+				"Durability": "7",
+				"Energy Projection": "6",
+				"Fighting Ability": "4"
+		  }, 
+		  "Punisher (Frank Castle)": {
+				"Profile Link": "http://static2.wikia.nocookie.net/__cb20130313230953/marveldatabase/images/e/e5/Richard_Rider_%28Earth-616%29.jpg", 
+				"Image Link": "http://static4.wikia.nocookie.net/__cb20110829222110/marveldatabase/images/e/e0/Punisher_Vol_8_1_p26.jpg",
+				"Quote": "\"They laugh at the law. The rich ones who buy it and twist it to their whims. The other ones, who have nothing to lose, who don't care about themselves, or other people. All the ones who think they're above the law, or outside it, or beyond it. They know all the law is good for is to keep good people in line. And they all laugh. They laugh at the law. But they don't laugh at me.\" - Punisher", 
+				"Intelligence": "3",
+				"Strength": "3",
+				"Speed": "2",
+				"Durability": "2",
+				"Energy Projection": "1",
+				"Fighting Ability": "6"
+		  }, 
+		  "Venom (Edward Brock)": {
+				"Profile Link": "http://marvel.wikia.com/Edward_Brock_(Earth-616)", 
+				"Image Link": "http://static1.wikia.nocookie.net/__cb20120211182150/marveldatabase/images/b/bd/Edward_Brock_%28Earth-616%29_as_Venom_%28by_Bagley%29.jpg",
+				"Quote": "\"We...are...VENOM!\" - Venom", 
+				"Intelligence": "3",
+				"Strength": "4",
+				"Speed": "2",
+				"Durability": "6",
+				"Energy Projection": "1",
+				"Fighting Ability": "4"
+		  }
+	 }
+}
